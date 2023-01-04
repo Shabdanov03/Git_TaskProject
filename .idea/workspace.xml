@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a31b0b5-0687-4be2-ae7e-77230e076fae" name="Changes" comment="" />
+    <list default="true" id="7a31b0b5-0687-4be2-ae7e-77230e076fae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classes/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Gender.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672828593094</updated>
       <workItem from="1672828594393" duration="605000" />
-      <workItem from="1672829948908" duration="1022000" />
+      <workItem from="1672829948908" duration="1333000" />
     </task>
     <servers />
   </component>
