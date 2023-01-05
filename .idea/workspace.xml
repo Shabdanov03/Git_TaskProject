@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a31b0b5-0687-4be2-ae7e-77230e076fae" name="Changes" comment="added class client and data base and license">
-      <change afterPath="$PROJECT_DIR$/src/service/DriverService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/TaxiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/DriverServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/TaxiServiceImpl.java" afterDir="false" />
+    <list default="true" id="7a31b0b5-0687-4be2-ae7e-77230e076fae" name="Changes" comment="added interface and impl classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/impl/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/impl/ClientServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <workItem from="1672828594393" duration="605000" />
       <workItem from="1672829948908" duration="3891000" />
       <workItem from="1672836120401" duration="1298000" />
-      <workItem from="1672893330000" duration="2988000" />
+      <workItem from="1672893330000" duration="5203000" />
     </task>
     <task id="LOCAL-00001" summary="added class client and data base and license">
       <created>1672894327640</created>
@@ -78,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672894327640</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added interface and impl classes">
+      <created>1672896470573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672896470573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added class client and data base and license" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class client and data base and license" />
+    <MESSAGE value="added interface and impl classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added interface and impl classes" />
   </component>
 </project>
